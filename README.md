@@ -9,4 +9,6 @@
 
 ![](images/1.gif)
 
-###  Edited by Hüseyin ASLAN (udemig & @isveckralı )
+###  Edited by Hüseyin ASLAN 
+
+( udemig & @isveckralı )
