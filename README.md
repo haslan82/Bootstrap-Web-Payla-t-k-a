@@ -1,4 +1,4 @@
-# BOOTSTRAP WEB PROJECT (PAYLAŞTIKÇA)
+# BOOTSTRAP WEB PROJECT (Paylastikca)
 
 ## Used technologies & Libraries
 
